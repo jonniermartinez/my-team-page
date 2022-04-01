@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;1,100;1,200;1,300;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+body {
+    font-family: 'PT Serif', serif;
+}
+.general-main{
+    width: 100%;
+    max-width: 1300px;
+    height: auto;
+    display: grid;
+    justify-items: center;
+    margin: 0 auto;
+}
+.head{
+    width: 85%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}   
+.box-head{
+    margin: 3.8rem 0;
+}
+.box-head h1{
+    font-family: PT Serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.045em;
+    text-align: left;
+}
+.box-head h2{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 1rem;
+}
+.box-head p{
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-bottom: 3.2rem;
+    width: 439px;
+}
+.main-content{
+    width: 85%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));;
+    gap: 1rem;
+}
+.child-card img{
+    width: 13.8rem;
+    object-fit: cover;
+}
+.inpar .child-card{
+    margin-top: 10rem;
+}
+.card{
+    width: fit-content;
+    display: flex;
+    gap: 0.68rem;
+    justify-content: flex-start
+}
+.text-vertical{
+    writing-mode: vertical-lr;
+    font-family: PT Serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.3rem;
+    letter-spacing: 0rem;
+    text-align: left;
+    text-transform: uppercase;
+}
+.text-name{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 1rem;
+}
+.main-content{
+    margin-bottom: 10rem;
+}
+.footer{
+    font-family: Montserrat;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: center;
+margin-bottom: 2.4rem;
+color: #A9A9A9;
+
+}
+
+@media (min-width: 900px) {
+    .child-card img{
+        width: 23.8rem;
+        object-fit: cover;
+    }
+    .main-content{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media (min-width: 550px) and (max-width:950px) {
+    .child-card img{
+        width: 13.8rem;
+        object-fit: cover;
+    }
+    .main-content{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+@media (max-width: 550px) {
+    .dos .child-card{
+        margin-top: 10rem;
+    }
+    .hola .child-card{
+        margin-top: 0rem;
+    }
+}
