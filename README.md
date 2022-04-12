@@ -8,15 +8,15 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://github.com/jonniermartinez/my-team-page">
       Solution
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://jonniermartinez.github.io/my-team-page/">
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U">
       Challenge
     </a>
   </h3>
@@ -26,25 +26,27 @@
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
   - [Built With](#built-with)
 - [Features](#features)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot]()
+![screenshot](./img/produccion.gif)
 
 **My team page**
 
 - **Where can I see your demo?**
-- **What was your experience?**
+  
+[Here](https://jonniermartinez.github.io/my-team-page/)
+
 - **What have you learned/improved?**
 
-
+I learned how to work with Flex and Grid in a single page
 
 
 ### Built With
@@ -58,11 +60,11 @@
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
 
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) Was to build an application.
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/hhmesazsqgKXrTkYkt0U) Was to build an application to show the team of a company or star-up 
 
 
 ## Contact
 
 - linkeding [linkedin.com/jonnier-alejandro-martinez-sanchez](https://co.linkedin.com/in/jonnier-alejandro-martinez-sanchez)
 - GitHub [@jonniermartinez](https://github.com/jonniermartinez)
-- Twitter [@JonnierMartinez](https:/twitter.com/jonniermartinez)
+- Twitter [@JonnierMartinez](https://twitter.com/jonniermartinez)
