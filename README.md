@@ -67,8 +67,8 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 - linkeding [linkedin.com/jonnier-alejandro-martinez-sanchez](https://co.linkedin.com/in/jonnier-alejandro-martinez-sanchez)
 - GitHub [@jonniermartinez](https://github.com/jonniermartinez)
-<<<<<<< HEAD
+
 - Twitter [@JonnierMartinez](https://twitter.com/jonniermartinez)
-=======
+
 - Twitter [@JonnierMartinez](https:/twitter.com/jonniermartinez)
->>>>>>> 646a0d3f186d41edcc62bcdde860b29292a5ef89
+
